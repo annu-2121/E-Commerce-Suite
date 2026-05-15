@@ -19,7 +19,18 @@
     Database: SQLite / MySQL / PostgreSQL
     Other Tools: Bootstrap / Tailwind CSS, etc.
 
-7. Screenshots
-   (images of your homepage, product page, cart, and admin panel)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](Screenshot.png)
+
+### 🛍️ Product Listing
+![Product Listing](Screenshot(80).png)
+
+### 🛒 Shopping Cart
+![Shopping Cart]()
+
+
+   
 
    
