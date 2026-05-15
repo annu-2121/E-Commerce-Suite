@@ -13,12 +13,6 @@
     User Authentication – Sign up, log in, and manage profiles.
     Responsive Design – Works on desktop and mobile.
 
-4. Tech Stack
-    Frontend: HTML, CSS, JavaScript (or React/Vue if used)
-    Backend: Django / Flask / Node.js (choose your actual)
-    Database: SQLite / MySQL / PostgreSQL
-    Other Tools: Bootstrap / Tailwind CSS, etc.
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -28,7 +22,7 @@
 ![Product Listing](Screenshot(80).png)
 
 ### 🛒 Shopping Cart
-![Shopping Cart]()
+![Shopping Cart](Screenshot(85).png)
 
 
    
