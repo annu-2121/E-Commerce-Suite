@@ -19,10 +19,10 @@
 ![Home Page](Screenshot.png)
 
 ### 🛍️ Product Listing
-![Product Listing](Screenshot (80).png)
+![Product Listing](Screenshot(80).png)
 
 ### 🛒 Shopping Cart
-![Shopping Cart](Screenshot (85).png)
+![Shopping Cart](Screenshot(85).png)
 
 
    
