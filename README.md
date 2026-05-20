@@ -2,7 +2,7 @@
    # 🛒 Basic E-Commerce Web Application
 
 2. Description-- 
-    A simple yet functional online store built .
+    A simple yet functional online store built.
     It allows users to browse products, add them to a shopping cart, place orders, and track their order status.
     Includes an admin panel for managing products, categories, and orders.
 
